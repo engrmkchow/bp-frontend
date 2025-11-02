@@ -8,7 +8,10 @@
     "start": "next start"
   },
   "dependencies": {
+    "@headlessui/react": "^2.2.9",
+    "@phosphor-icons/react": "^2.1.10",
     "next": "15.5.6",
+    "phosphor-icons": "^1.4.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },

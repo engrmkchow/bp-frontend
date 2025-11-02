@@ -1,0 +1,146 @@
+[
+  {
+    "did": 4,
+    "dept": "ELECTRONICS",
+    "is_actv": "Y",
+    "c_domain": "buyerpanda.com",
+    "mkrid": null,
+    "mkr_date": "2025-05-24T18:34:02.470657"
+  },
+  {
+    "did": 11,
+    "dept": "STATIONARIES",
+    "is_actv": "Y",
+    "c_domain": "buyerpanda.com",
+    "mkrid": null,
+    "mkr_date": "2025-05-24T18:34:02.470657"
+  },
+  {
+    "did": 12,
+    "dept": "CLEANING-SUPPLIES",
+    "is_actv": "Y",
+    "c_domain": "buyerpanda.com",
+    "mkrid": null,
+    "mkr_date": "2025-05-24T18:34:02.470657"
+  },
+  {
+    "did": 17,
+    "dept": "GIFT-BOXES",
+    "is_actv": "Y",
+    "c_domain": "buyerpanda.com",
+    "mkrid": null,
+    "mkr_date": "2025-05-24T18:34:02.470657"
+  },
+  {
+    "did": 3,
+    "dept": "BEAUTY-HEALTH",
+    "is_actv": "N",
+    "c_domain": "buyerpanda.com",
+    "mkrid": null,
+    "mkr_date": "2025-05-24T18:34:02.470657"
+  },
+  {
+    "did": 7,
+    "dept": "KITCHEN",
+    "is_actv": "N",
+    "c_domain": "buyerpanda.com",
+    "mkrid": null,
+    "mkr_date": "2025-05-24T18:34:02.470657"
+  },
+  {
+    "did": 9,
+    "dept": "INDOOR-DECOR",
+    "is_actv": "N",
+    "c_domain": "buyerpanda.com",
+    "mkrid": null,
+    "mkr_date": "2025-05-24T18:34:02.470657"
+  },
+  {
+    "did": 10,
+    "dept": "BOOKS",
+    "is_actv": "Y",
+    "c_domain": "buyerpanda.com",
+    "mkrid": null,
+    "mkr_date": "2025-05-24T18:34:02.470657"
+  },
+  {
+    "did": 13,
+    "dept": "TOOLS",
+    "is_actv": "N",
+    "c_domain": "buyerpanda.com",
+    "mkrid": null,
+    "mkr_date": "2025-05-24T18:34:02.470657"
+  },
+  {
+    "did": 15,
+    "dept": "SPORTS",
+    "is_actv": "N",
+    "c_domain": "buyerpanda.com",
+    "mkrid": null,
+    "mkr_date": "2025-05-24T18:34:02.470657"
+  },
+  {
+    "did": 16,
+    "dept": "PACKAGES",
+    "is_actv": "N",
+    "c_domain": "buyerpanda.com",
+    "mkrid": null,
+    "mkr_date": "2025-05-24T18:34:02.470657"
+  },
+  {
+    "did": 8,
+    "dept": "GARDENING",
+    "is_actv": "N",
+    "c_domain": "buyerpanda.com",
+    "mkrid": null,
+    "mkr_date": "2025-05-24T18:34:02.470657"
+  },
+  {
+    "did": 6,
+    "dept": "GROCERIES",
+    "is_actv": "Y",
+    "c_domain": "buyerpanda.com",
+    "mkrid": null,
+    "mkr_date": "2025-05-24T18:34:02.470657"
+  },
+  {
+    "did": 5,
+    "dept": "TOYS",
+    "is_actv": "Y",
+    "c_domain": "buyerpanda.com",
+    "mkrid": null,
+    "mkr_date": "2025-05-24T18:34:02.470657"
+  },
+  {
+    "did": 14,
+    "dept": "SCHOOLS",
+    "is_actv": "N",
+    "c_domain": "buyerpanda.com",
+    "mkrid": null,
+    "mkr_date": "2025-05-24T18:34:02.470657"
+  },
+  {
+    "did": 18,
+    "dept": "OCASSION-BASKETS",
+    "is_actv": "N",
+    "c_domain": "buyerpanda.com",
+    "mkrid": null,
+    "mkr_date": "2025-05-25T02:17:08.652074"
+  },
+  {
+    "did": 2,
+    "dept": "LAZY-MEALS",
+    "is_actv": "Y",
+    "c_domain": "buyerpanda.com",
+    "mkrid": null,
+    "mkr_date": "2025-05-24T18:34:02.470657"
+  },
+  {
+    "did": 1,
+    "dept": "APPARELS",
+    "is_actv": "Y",
+    "c_domain": "buyerpanda.com",
+    "mkrid": null,
+    "mkr_date": "2025-05-24T18:34:02.470657"
+  }
+]

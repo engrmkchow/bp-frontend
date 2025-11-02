@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "active": true,
+    "label": "Event 1",
+    "path": "#"
+  },
+  {
+    "id": 2,
+    "active": true,
+    "label": "Event 2",
+    "path": "#"
+  },
+  {
+    "id": 3,
+    "active": true,
+    "label": "Event 3",
+    "path": "#"
+  },
+  {
+    "id": 4,
+    "active": true,
+    "label": "Event 4",
+    "path": "#"
+  },
+  {
+    "id": 5,
+    "active": true,
+    "label": "Event 5",
+    "path": "#"
+  }
+]

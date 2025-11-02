@@ -1,0 +1,37 @@
+[
+  {
+    "path": "/user/profile",
+    "label": "Profile",
+    "className": ""
+  },
+  {
+    "path": "/cart",
+    "label": "My Cart",
+    "className": ""
+  },
+  {
+    "path": "/orders",
+    "label": "My Orders",
+    "className": ""
+  },
+  {
+    "path": "/wishlist",
+    "label": "Wishlist",
+    "className": ""
+  },
+  {
+    "path": "/user/dboard",
+    "label": "Dashboard",
+    "className": ""
+  },
+  {
+    "path": "/user/cfpwd",
+    "label": "Change Password",
+    "className": ""
+  },
+  {
+    "path": "/user/logout",
+    "label": "Logout",
+    "className": "text-red-500"
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "name": "Valley Store",
+    "address": "1717 Valley Rd, Valleytown",
+    "postalCode": "ABC123",
+    "division": "SK",
+    "country": "CA",
+    "latitude": 40.755,
+    "longitude": -73.945,
+    "city": "Saskatoon"
+  },
+  {
+    "name": "Downtown Store",
+    "address": "123 Main St, Cityville",
+    "postalCode": "ABC123",
+    "division": "SK",
+    "country": "CA",
+    "latitude": 40.7128,
+    "longitude": -74.006,
+    "city": "Saskatoon"
+  },
+  {
+    "name": "Uptown Store",
+    "address": "456 Elm St, Cityville",
+    "postalCode": "ABC123",
+    "division": "SK",
+    "country": "CA",
+    "latitude": 40.758,
+    "longitude": -73.9855,
+    "city": "Saskatoon"
+  },
+  {
+    "name": "Suburb Store",
+    "address": "789 Oak St, Suburbia",
+    "postalCode": "ABC123",
+    "division": "SK",
+    "country": "CA",
+    "latitude": 40.7306,
+    "longitude": -73.9352,
+    "city": "Saskatoon"
+  },
+  {
+    "name": "Westside Store",
+    "address": "101 Pine St, Westtown",
+    "postalCode": "ABC123",
+    "division": "SK",
+    "country": "CA",
+    "latitude": 40.745,
+    "longitude": -74.002,
+    "city": "Saskatoon"
+  },
+  {
+    "name": "Eastside Store",
+    "address": "202 Birch St, Eastville",
+    "postalCode": "ABC123",
+    "division": "SK",
+    "country": "CA",
+    "latitude": 40.72,
+    "longitude": -73.98,
+    "city": "Saskatoon"
+  },
+  {
+    "name": "Southside Store",
+    "address": "303 Maple St, Southtown",
+    "postalCode": "ABC123",
+    "division": "SK",
+    "country": "CA",
+    "latitude": 40.7,
+    "longitude": -73.99,
+    "city": "Saskatoon"
+  },
+  {
+    "name": "Northside Store",
+    "address": "404 Cedar St, Northtown",
+    "postalCode": "ABC123",
+    "division": "SK",
+    "country": "CA",
+    "latitude": 40.77,
+    "longitude": -73.95,
+    "city": "Saskatoon"
+  },
+  {
+    "name": "Lakeside Store",
+    "address": "505 Lake St, Laketown",
+    "postalCode": "ABC123",
+    "division": "SK",
+    "country": "CA",
+    "latitude": 40.68,
+    "longitude": -73.92,
+    "city": "Saskatoon"
+  },
+  {
+    "name": "Hillside Store",
+    "address": "606 Hill St, Hilltown",
+    "postalCode": "ABC123",
+    "division": "SK",
+    "country": "CA",
+    "latitude": 40.75,
+    "longitude": -73.93,
+    "city": "Saskatoon"
+  },
+  {
+    "name": "Greenwood Store",
+    "address": "707 Green St, Greenwood",
+    "postalCode": "ABC123",
+    "division": "SK",
+    "country": "CA",
+    "latitude": 40.73,
+    "longitude": -73.94,
+    "city": "Saskatoon"
+  },
+  {
+    "name": "Sunset Store",
+    "address": "808 Sunset Blvd, Sunset City",
+    "postalCode": "ABC123",
+    "division": "SK",
+    "country": "CA",
+    "latitude": 40.71,
+    "longitude": -73.96,
+    "city": "Saskatoon"
+  },
+  {
+    "name": "Riverside Store",
+    "address": "909 River Rd, Riverside",
+    "postalCode": "ABC123",
+    "division": "SK",
+    "country": "CA",
+    "latitude": 40.74,
+    "longitude": -73.97,
+    "city": "Saskatoon"
+  },
+  {
+    "name": "Parkside Store",
+    "address": "1010 Park Ave, Parkside",
+    "postalCode": "ABC123",
+    "division": "SK",
+    "country": "CA",
+    "latitude": 40.7205,
+    "longitude": -73.975,
+    "city": "Saskatoon"
+  },
+  {
+    "name": "Harbor Store",
+    "address": "1111 Harbor Dr, Harbor City",
+    "postalCode": "ABC123",
+    "division": "SK",
+    "country": "CA",
+    "latitude": 40.76,
+    "longitude": -73.98,
+    "city": "Saskatoon"
+  },
+  {
+    "name": "Mountain Store",
+    "address": "1212 Peak St, Mountainville",
+    "postalCode": "ABC123",
+    "division": "SK",
+    "country": "CA",
+    "latitude": 40.78,
+    "longitude": -73.91,
+    "city": "Saskatoon"
+  },
+  {
+    "name": "Bayview Store",
+    "address": "1313 Bay St, Bayview",
+    "postalCode": "ABC123",
+    "division": "SK",
+    "country": "CA",
+    "latitude": 40.69,
+    "longitude": -73.925,
+    "city": "Saskatoon"
+  },
+  {
+    "name": "Central Store",
+    "address": "1414 Central Ave, Midtown",
+    "postalCode": "ABC123",
+    "division": "SK",
+    "country": "CA",
+    "latitude": 40.7305,
+    "longitude": -73.985,
+    "city": "Saskatoon"
+  },
+  {
+    "name": "Bridge Store",
+    "address": "1515 Bridge St, Bridgeland",
+    "postalCode": "ABC123",
+    "division": "SK",
+    "country": "CA",
+    "latitude": 40.715,
+    "longitude": -73.9905,
+    "city": "Saskatoon"
+  },
+  {
+    "name": "Seaside Store",
+    "address": "1616 Ocean Dr, Seaside",
+    "postalCode": "ABC123",
+    "division": "SK",
+    "country": "CA",
+    "latitude": 40.67,
+    "longitude": -73.93,
+    "city": "Saskatoon"
+  }
+]
