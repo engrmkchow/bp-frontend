@@ -1,0 +1,75 @@
+{
+  "columns": {
+    "Support": [
+      {
+        "label": "Returns",
+        "path": "/support/returns"
+      },
+      {
+        "label": "Exchanges",
+        "path": "/support/exchanges"
+      },
+      {
+        "label": "Contact Us",
+        "path": "/support/contact-us"
+      },
+      {
+        "label": "Help Center",
+        "path": "/support/help-center"
+      }
+    ],
+    "Tools & Apps": [
+      {
+        "label": "Android apps",
+        "path": "/tools-&-apps/android-apps"
+      },
+      {
+        "label": "IOS App",
+        "path": "/tools-&-apps/ios-apps"
+      },
+      {
+        "label": "Developer",
+        "path": "/tools-&-apps/developer"
+      },
+      {
+        "label": "Sitemap",
+        "path": "/tools-&-apps/sitemap"
+      }
+    ],
+    "About Us": [
+      {
+        "label": "Careers",
+        "path": "/about-us/careers"
+      },
+      {
+        "label": "Newsroom",
+        "path": "/about-us/newsroom"
+      },
+      {
+        "label": "About Buyerpanda",
+        "path": "/about-us"
+      },
+      {
+        "label": "Terms of Use",
+        "path": "/about-us/terms-of-use"
+      },
+      {
+        "label": "Store Finder",
+        "path": "/about-us/store-finder"
+      }
+    ]
+  },
+  "socials": [
+    "https://www.x.com/",
+    "https://www.facebook.com/",
+    "https://www.twitch.com/",
+    "https://www.snapchat.com/",
+    "https://www.youtube.com/",
+    "https://www.pinterest.com/"
+  ],
+  "contact": {
+    "email": "info@ridbiz.com",
+    "phone": "+1 (639) 345-5678",
+    "address": "123 Block Street"
+  }
+}
