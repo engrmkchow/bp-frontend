@@ -60,31 +60,27 @@ export default function Footer() {
         ))}
 
         {/* Newsletter Section */}
-        <div className="relative m-4 p-4 rounded-lg bg-white/10 backdrop-blur-md border border-white/20">
-          <h2 className="tracking-wide text-white font-bold">Be in the Know!</h2>
-          <p className="text-xs mt-2 text-gray-300">
-            Send me up-to-date information on weekly flyer features, Rollback &
-            clearance items, exclusive products, and personalized recommendations and
-            offers. You may unsubscribe at any time.
+        <div className="relative m-2 p-3 rounded-lg bg-white/10 backdrop-blur-md border border-white/20 text-white">
+          <h2 className="text-sm font-semibold tracking-wide">Be in the Know!</h2>
+
+          <p className="text-[11px] mt-1 text-gray-200 leading-snug">
+            Get updates on flyer features, Rollbacks, exclusive products, and offers. Unsubscribe anytime.
           </p>
 
           {/* Subscription Form */}
-          <form onSubmit={handleSubmit} className="my-3">
-            <label htmlFor="subEmail" className="text-sm">
-              Email Address
-            </label>
-            <div className="flex flex-row space-x-2">
+          <form onSubmit={handleSubmit} className="mt-2">
+            <div className="flex items-center gap-1">
               <input
                 id="subEmail"
                 type="email"
                 value={v_subEmail}
                 onChange={handleChange}
-                placeholder="123@example.com"
-                className="mt-1 p-2 rounded bg-white text-black w-full"
+                placeholder="Enter your email"
+                className="p-1.5 rounded-md bg-white/90 text-black text-xs w-full placeholder-gray-500 focus:outline-none focus:ring-1 focus:ring-cyan-500"
               />
               <button
                 type="submit"
-                className="mt-1 p-2 text-xs rounded bg-cyan-600 hover:bg-cyan-700 text-white"
+                className="p-1.5 text-[11px] rounded-md bg-cyan-600 hover:bg-cyan-700 text-white transition-colors"
               >
                 Submit
               </button>
@@ -92,26 +88,25 @@ export default function Footer() {
           </form>
 
           {v_subMsg && (
-            <p className="mt-1 mb-3 text-xs text-gray-200">{v_subMsg}</p>
+            <p className="mt-1 text-[10px] text-gray-300 italic">{v_subMsg}</p>
           )}
 
-          <p className="text-xs text-gray-400">
-            Personal information provided may be collected, used, and disclosed in
-            accordance with the{' '}
+          <p className="text-[10px] text-gray-400 mt-2 leading-tight">
+            Personal information provided may be collected, used, and disclosed in accordance with the{" "}
             <span className="inline-flex items-center underline hover:text-gray-200 cursor-pointer">
-              Privacy Notice <Info weight="bold" size={10} className="ml-1" />
-            </span>
-            .
+              Privacy Notice <Info weight="bold" size={8} className="ml-1" />
+            </span>.
           </p>
         </div>
 
+
         {/* Contact & Social Section */}
-        <div className="px-2 py-4 flex flex-col items-end space-y-2 text-sm text-right w-full col-span-full sm:col-span-1">
+        <div className="px-2 py-2 flex flex-col items-end space-y-1 text-xs text-right w-full col-span-full sm:col-span-1">
           <Image
             src="/images/logo.png"
             alt="Buyerpanda X Ridbiz"
-            width={120}
-            height={120}
+            width={80}
+            height={80}
             loading="lazy"
           />
 
@@ -119,54 +114,52 @@ export default function Footer() {
           <p>Phone: {footerContact.phone}</p>
           <p>Address: {footerContact.address}</p>
 
-          <h6 className="uppercase tracking-wider font-bold text-xl pt-3 text-gray-100">
-            Connect with us
-          </h6>
-          <span className="flex flex-wrap justify-end space-x-1">
+          <span className="flex flex-wrap justify-end space-x-0.5 pt-4">
             <Link href={footerSocials[0]}>
               <Icon.XLogoIcon
                 color="cyan"
-                size={36}
-                className="hover:bg-slate-800 rounded-lg cursor-pointer p-1"
+                size={26}
+                className="hover:bg-slate-800 rounded-md cursor-pointer p-0.5"
               />
             </Link>
             <Link href={footerSocials[1]}>
               <Icon.FacebookLogoIcon
                 color="cyan"
-                size={36}
-                className="hover:bg-slate-800 rounded-lg cursor-pointer p-1"
+                size={26}
+                className="hover:bg-slate-800 rounded-md cursor-pointer p-0.5"
               />
             </Link>
             <Link href={footerSocials[2]}>
               <Icon.TwitchLogoIcon
                 color="cyan"
-                size={36}
-                className="hover:bg-slate-800 rounded-lg cursor-pointer p-1"
+                size={26}
+                className="hover:bg-slate-800 rounded-md cursor-pointer p-0.5"
               />
             </Link>
             <Link href={footerSocials[3]}>
               <Icon.SnapchatLogoIcon
                 color="cyan"
-                size={36}
-                className="hover:bg-slate-800 rounded-lg cursor-pointer p-1"
+                size={26}
+                className="hover:bg-slate-800 rounded-md cursor-pointer p-0.5"
               />
             </Link>
             <Link href={footerSocials[4]}>
               <Icon.YoutubeLogoIcon
                 color="cyan"
-                size={36}
-                className="hover:bg-slate-800 rounded-lg cursor-pointer p-1"
+                size={26}
+                className="hover:bg-slate-800 rounded-md cursor-pointer p-0.5"
               />
             </Link>
             <Link href={footerSocials[5]}>
               <Icon.PinterestLogoIcon
                 color="cyan"
-                size={36}
-                className="hover:bg-slate-800 rounded-lg cursor-pointer p-1"
+                size={26}
+                className="hover:bg-slate-800 rounded-md cursor-pointer p-0.5"
               />
             </Link>
           </span>
         </div>
+
       </div>
 
       {/* Copyright */}
@@ -175,6 +168,11 @@ export default function Footer() {
         <p>
           <Link href="/privacy" className="hover:underline hover:text-gray-200">
             Privacy Notice
+          </Link>
+        </p>
+        <p>
+          <Link href="/about-us/terms-of-use" className="hover:underline hover:text-gray-200">
+            Terms of Use
           </Link>
         </p>
       </div>

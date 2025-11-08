@@ -40,10 +40,6 @@
       {
         "label": "About Buyerpanda",
         "path": "/about-us"
-      },
-      {
-        "label": "Terms of Use",
-        "path": "/about-us/terms-of-use"
       }
     ]
   },
