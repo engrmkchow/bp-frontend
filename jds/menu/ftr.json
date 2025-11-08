@@ -12,10 +12,6 @@
       {
         "label": "Contact Us",
         "path": "/support/contact-us"
-      },
-      {
-        "label": "Help Center",
-        "path": "/support/help-center"
       }
     ],
     "Tools & Apps": [
@@ -24,16 +20,12 @@
         "path": "/tools-&-apps/android-apps"
       },
       {
-        "label": "IOS App",
+        "label": "IOS Apps",
         "path": "/tools-&-apps/ios-apps"
       },
       {
-        "label": "Developer",
-        "path": "/tools-&-apps/developer"
-      },
-      {
-        "label": "Sitemap",
-        "path": "/tools-&-apps/sitemap"
+        "label": "Store Finder",
+        "path": "/about-us/store-finder"
       }
     ],
     "About Us": [
@@ -52,10 +44,6 @@
       {
         "label": "Terms of Use",
         "path": "/about-us/terms-of-use"
-      },
-      {
-        "label": "Store Finder",
-        "path": "/about-us/store-finder"
       }
     ]
   },
