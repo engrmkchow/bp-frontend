@@ -8,7 +8,7 @@ export default function BPLayout({ children }: { children: React.ReactNode }) {
       <Header />
       
       <head />
-      <body>{children}</body>
+      <body className='bg-slate-900'>{children}</body>
       
       <Footer />
     </html>

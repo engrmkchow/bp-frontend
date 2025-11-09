@@ -11,7 +11,7 @@ export default function Footer() {
 
   return (
     <>
-      <div className="bg-slate-900 grid grid-cols-2 sm:grid-cols-[0.7fr,0.7fr,0.7fr,1.5fr,1fr] px-4 py-3 text-white">
+      <div className="bg-gradient-to-b from-slate-950 to-slate-900 grid grid-cols-2 sm:grid-cols-[0.7fr,0.7fr,0.7fr,1.5fr,1fr] px-4 py-3 text-white">
         <FooterColumns columns={columns} />
         <FooterNewsletter />
         <FooterContactSocials contact={contact} socials={socials} />
